@@ -1,4 +1,4 @@
-// File   : Main.c
+// File   : Linked.c
 // Author : Nauval Khairiyan - 241524021
 // Desc   : File body untuk operasi edit, insert, delete
 
